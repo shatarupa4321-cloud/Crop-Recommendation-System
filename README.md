@@ -74,6 +74,16 @@ python -m streamlit run app_ui.py
 
 The application will open in your browser.
 
+## 📸 Application Screenshots
+
+### Crop Recommendation System — Interface
+
+![Crop Recommendation System Interface](screenshots/Screenshot%20(257).png)
+
+### Crop Recommendation System — Output
+
+![Crop Recommendation System Output](screenshots/Screenshot%20(258).png)
+
 ## 🧠 How It Works
 
 1. The user enters soil nutrient and environmental values.
